@@ -17,9 +17,9 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 - **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
 
 ## 🎥 Group Walkthrough
--  Group Project 1 Walkthrough Video: [Youtube](https://youtu.be/R06plOSO8mM)
+-  Group Walkthrough Video: [Youtube](https://youtu.be/R06plOSO8mM)
 
-## 👥 Pairing Sessions (Project 1)
+## 👥 Pairing Sessions (HW 7)
 - **Aditya & Mret**
   - Aditya's and Mret's recording: [Youtube](https://www.youtube.com/watch?v=FC5i3GTAyh0)
 - **Mohammad & Adrian**
