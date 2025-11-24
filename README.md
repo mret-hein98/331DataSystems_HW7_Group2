@@ -11,10 +11,10 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
-- **Mret Hein**: [`INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_Project1_MretHein/`](./INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_Project1_MretHein/)
-- **Adi Dwivedi**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_AdiDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_AdiDwivedi/)
-- **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_AdrianAngeles/)
-- **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_MohammadMustafa/)
+- **Mret Hein**: [`/INDIVIDUAL_NOTEBOOKS/Mret_Hein_GroupNumber2_HW#7.ipynb/`](./INDIVIDUAL_NOTEBOOKS/Mret_Hein_GroupNumber2_HW#7.ipynb/)
+- **Adi Dwivedi**: [`./INDIVIDUAL_NOTEBOOKS/Indiv_AdityaDwivedi_HW#7.ipynb/`](./INDIVIDUAL_NOTEBOOKS/Indiv_AdityaDwivedi_HW#7.ipynb/)
+- **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Indiv_AdrianAngeles_HW#7.ipynb/`](./INDIVIDUAL_NOTEBOOKS/Indiv_AdrianAngeles_HW#7.ipynb/)
+- **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/MohammadMustafa_IndividualHW_Chapter7.ipynb`](./INDIVIDUAL_NOTEBOOKS/MohammadMustafa_IndividualHW_Chapter7.ipynb/)
 
 ## 🎥 Group Walkthrough
 -  Group Project 1 Walkthrough Video: [Youtube](https://youtu.be/R06plOSO8mM)
