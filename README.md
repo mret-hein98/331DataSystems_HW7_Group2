@@ -14,7 +14,7 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 - **Mret Hein**: [`/INDIVIDUAL_NOTEBOOKS/Mret_Hein/`](./INDIVIDUAL_NOTEBOOKS/Mret_Hein/)
 - **Adi Dwivedi**: [`./INDIVIDUAL_NOTEBOOKS/Indiv_AdityaDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Aditya_Dwivedi/)
 - **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Indiv_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Adrian_Angeles/)
-- **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/MohammadMustafa/`](.INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
+- **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
 
 ## 🎥 Group Walkthrough
 -  Group Project 1 Walkthrough Video: [Youtube](https://youtu.be/R06plOSO8mM)
