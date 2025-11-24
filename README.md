@@ -1,7 +1,5 @@
-# 331DataSystems_HW7_Group2
+# CSCI 331 Data Systems - Group 2 HW7 Project
 Group SQL Notebook delivering Chapter 7 propositions and analysis
-
-# CSCI 331 Data Systems - Group 2 HW6 Project
 
 ## Project Overview
 This repository contains the HW6 project submissions for CSCI 331 Data Systems Group 2, including both group work and individual contributions from all team members.
@@ -55,4 +53,4 @@ Each team member has submitted their individual work in separate directories con
 - We used ChatGPT 5 for assistance with this project
 
 ---
-*Repository created for CSCI 331 Data Systems - Group 2 HW6 Project*
+*Repository created for CSCI 331 Data Systems - Group 2 HW7 Project*
