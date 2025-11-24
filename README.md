@@ -21,9 +21,9 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 
 ## 👥 Pairing Sessions (HW 7)
 - **Aditya & Mret**
-  - Aditya's and Mret's recording: [Youtube](https://www.youtube.com/watch?v=FC5i3GTAyh0)
+  - Aditya's and Mret's recording: [Youtube](https://youtu.be/kYbhlsVqtl8)
 - **Mohammad & Adrian**
-  - Mohammad & Adrian Pairing Video: [Youtube](https://youtu.be/dfigMXik9dA)
+  - Mohammad & Adrian Pairing Video: [Youtube](https://youtu.be/UK4nPUliJmM)
 
 ## Solo Walkthrough 
 - **Aditya & Mret**
