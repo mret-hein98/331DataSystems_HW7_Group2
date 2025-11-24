@@ -28,10 +28,10 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 ## Solo Walkthrough 
 - **Aditya & Mret**
   - Aditya: [YouTube](https://www.youtube.com/watch?v=6aKoDqlJd6I&feature=youtu.be)
-  - Mret: [YouTube](https://www.youtube.com/watch?v=3IXuieYAJBk)
+  - Mret: [YouTube](https://youtu.be/2JWLfO8-78k)
 - **Mohammad & Adrian**
-  - Mohammad (solo): [YouTube](https://youtu.be/1DdFvQqtGSg)
-  - Adrian (solo): [YouTube](https://www.youtube.com/watch?v=mvlgpB_Dq00)
+  - Mohammad (solo): [YouTube](https://youtu.be/uwB6j5D9Y3Y)
+  - Adrian (solo): [YouTube](https://youtu.be/LVasbzacFKE)
 
 ## 🎯 Quick Access Links
 
